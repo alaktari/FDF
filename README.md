@@ -36,5 +36,6 @@ for Mandatory:
    Make clean
 
 for Bonus:
+   ```sh
    Make Bonus
    Make clear
