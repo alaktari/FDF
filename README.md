@@ -4,7 +4,7 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
 
 ## 🖼️ Preview
 <!-- Add an image or GIF of your FDF program running -->
-![FDF Screenshot](assets/fdf_preview1.png)
+![FDF Screenshot](https://github.com/alaktari/FDF/issues/1#issuecomment-2737508699)
 
 ## 🖼️  Preview
 <!-- Add an image or GIF of your FDF program running -->
