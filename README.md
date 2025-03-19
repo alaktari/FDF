@@ -32,13 +32,9 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
 2. **Run the Project:**
 (Mandatory/Bonus)
 
-1. **For Mandatory:**
-		```sh
-		Make
-		Make clean
+	For Mandatory:**
+		Make && Make clean
 
 
-2. **For Bonus:**
-	```sh
-	Make Bonus
-	Make clear
+	For Bonus:
+	Make Bonus && Make clear
