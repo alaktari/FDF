@@ -25,19 +25,20 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/alaktari/FDF.git
-   cd FDF
+	```sh
+	git clone https://github.com/alaktari/FDF.git
+	cd FDF
 
 2. **Run the Project:**
 (Mandatory/Bonus)
 
-for Mandatory:
-   ```sh
-   Make
-   Make clean
+1. **For Mandatory:**
+		```sh
+		Make
+		Make clean
 
-for Bonus:
-   ```sh
-   Make Bonus
-   Make clear
+
+2. **For Bonus:**
+	```sh
+	Make Bonus
+	Make clear
