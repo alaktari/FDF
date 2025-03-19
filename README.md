@@ -4,7 +4,11 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
 
 ## 🖼️ Preview
 <!-- Add an image or GIF of your FDF program running -->
-![FDF Screenshot](assets/fdf_preview.png)
+![FDF Screenshot](assets/fdf_preview1.png)
+
+## 🖼️  Preview
+<!-- Add an image or GIF of your FDF program running -->
+![FDF Screenshot](assets/fdf_preview2.png)
 
 ## 📖 Features
 - Parses `.fdf` map files to extract 3D points.
