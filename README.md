@@ -30,10 +30,11 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
    cd FDF
 
 2. **Run the Project:**
-   for Mandatory:
+for Mandatory:
    ```sh
    Make
    Make clean
-   
-   
 
+for Bonus:
+   Make Bonus
+   Make clear
