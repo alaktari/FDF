@@ -16,6 +16,6 @@ FDF is a simple 3D wireframe renderer built as part of the 42 curriculum. It rea
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/FDF.git
+   git clone https://github.com/alaktari/FDF.git
    cd FDF
 
